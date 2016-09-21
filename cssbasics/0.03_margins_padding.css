@@ -1,0 +1,38 @@
+h3{
+	text-align:center;
+}
+#margin-padding-image{
+	height:400px
+	width:600px;
+	background-color: blue;
+}
+
+.margins {
+	border: 10px solid blue;
+	margin: 75px 75px 75px 75px;
+}
+
+.margin-experiment{
+	height: 40px
+	background-color: blue;
+	border: 5px solid pink;
+	margin: 0px 0px 0px 0px;
+}
+
+#circle{
+	width:100px;
+	height: 100px;
+	border: 2px solid black;
+	border-radius: 50px;
+	margin: 20px 0px 0px 20px;
+	position: absolute;
+}
+
+#square{
+	width:100px;
+	height: 100px;
+	border: 2px solid blue;
+	border-radius: 0px;
+	margin: 20px 0px 0px 20px;
+	position: absolute;
+}

@@ -1,0 +1,18 @@
+/*body {
+	background-color:lightgray;
+}*/
+
+#number-one {
+	color:red;
+}
+
+#number-two {
+	color: blue;
+	font-style:italic;
+}
+
+.first-class {
+	color: green;
+	font-size:36px;
+	background-color: red
+}

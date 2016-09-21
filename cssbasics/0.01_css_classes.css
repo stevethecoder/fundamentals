@@ -1,0 +1,15 @@
+
+/* This is a comment.*/
+body {
+	background-color: lightblue;
+}
+
+.important{
+	color:blue;
+}
+
+.not_important{
+	color:green;
+	font-family: sans-serif;
+	font-size: 70px;
+}
