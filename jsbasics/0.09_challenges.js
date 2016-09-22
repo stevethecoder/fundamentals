@@ -35,6 +35,11 @@ function ageID (a){
 
 ageID(22);
 
+function combineWords(wordOne, wordTwo) {
+	// body...
+	return wordOne + wordTwo
+};
+console.log(combineWords("Diet " , "Coke"))
 //Silver
 
 function monthlyBills(rent, phone, electric){
@@ -42,6 +47,15 @@ function monthlyBills(rent, phone, electric){
 }
 
 console.log(monthlyBills(50,100,250))
+
+//Their solution
+
+function monthlyBills(rent, phone, electric){
+	var totalBills = rent + phone + electric;
+	return rent + phone + electric;
+}
+
+console.log("Bills: $", monthlyBills(50,100,250))
 
 //Gold
 function myCost(coke, tax, quantity){
