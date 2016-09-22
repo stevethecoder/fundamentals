@@ -63,3 +63,15 @@ function myCost(coke, tax, quantity){
 }
 
 console.log("100 Cokes will cost you $" +myCost (0.99, 1.07, 100));
+
+//Their solution
+
+function myCost(coke, tax, quantity) {
+
+	var totalTax = (quantity * coke * tax);
+	var totalPrice = quantity * coke + tax;
+	return quantity + " " + coke + "will cost you $" + totalPrice
+
+
+	// body...
+}
