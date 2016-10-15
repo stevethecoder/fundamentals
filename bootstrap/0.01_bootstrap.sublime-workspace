@@ -1,0 +1,291 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fa",
+				"fa-thumbs-up"
+			],
+			[
+				"btn",
+				"btn-default"
+			],
+			[
+				"container",
+				"container-fluid"
+			],
+			[
+				"title",
+				"title_photo"
+			],
+			[
+				"f",
+				"favoriteSong"
+			],
+			[
+				"wo",
+				"wordTwo"
+			],
+			[
+				"wor",
+				"wordOne"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"month",
+				"monthlyBills"
+			],
+			[
+				"nu",
+				"numAdd"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"div",
+				"divisable2"
+			],
+			[
+				"ele",
+				"elevatorBroke"
+			],
+			[
+				"grad",
+				"graduateYear"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"h",
+				"h1\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 490.0
+	},
+	"console":
+	{
+		"height": 834.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Steven/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Steven/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Steven/00 Portfolio/WIP Version One/HTML/css/designr-theme-grass.css",
+		"/C/Users/Steven/00 Portfolio/WIP Version One/HTML/css/bootstrap.min.css",
+		"/C/Users/Steven/00 Portfolio/WIP Version One/HTML/assets/header-bg.jpg",
+		"/C/Users/Steven/00 Portfolio/WIP Version One/HTML/assets/apple-touch-icon.png",
+		"/C/Users/Steven/00 Portfolio/WIP Version One/HTML/assets/about.jpg",
+		"/C/Users/Steven/Desktop/portfolio_project/startbootstrap-agency-gh-pages/startbootstrap-agency-gh-pages/css/agency.css",
+		"/C/Users/Steven/Desktop/fundamentals/bootstrap/0.01_bootstrap.html",
+		"/C/Users/Steven/Desktop/storefront/0.02_storefront_casual.html",
+		"/C/Users/Steven/Desktop/fundamentals/htmlbasics/1.0_theDOM.html",
+		"/C/Users/Steven/Desktop/fundamentals/jsbasics/1.0_theDOM.js",
+		"/C/Users/Steven/Desktop/fundamentals/jsbasics/0.09_challenges.js",
+		"/C/Users/Steven/Desktop/fundamentals/jsbasics/0.07_if_else_else_if.js",
+		"/C/Users/Steven/Desktop/fundamentals/jsbasics/0.06_if_else.js",
+		"/C/Users/Steven/Desktop/fundamentals/jsbasics/0.05_if.js",
+		"/C/Users/Steven/Desktop/fundamentals/jsbasics/0.04_booleans.js",
+		"/C/Users/Steven/Desktop/fundamentals/jsbasics/0.02_strings.js",
+		"/C/Users/Steven/Desktop/fundamentals/jsbasics/0.01_integers.js",
+		"/C/Users/Steven/AppData/Roaming/Sublime Text 3/Packages/User/node.sublime-build",
+		"/C/Users/Steven/Desktop/fundamentals/jsbasics/0.00_setup.js",
+		"/C/Users/Steven/Desktop/storefront/0.01_storefront.html",
+		"/C/Users/Steven/Desktop/fundamentals/cssbasics/0.02_css_ids.html",
+		"/C/Users/Steven/Desktop/fundamentals/cssbasics/0.02_css_ids.css",
+		"/C/Users/Steven/Desktop/fundamentals/htmlbasics/cssbasics/0.03_margins_padding.css",
+		"/C/Users/Steven/Desktop/fundamentals/storefront/0.01_storefront.css",
+		"/C/Users/Steven/Desktop/fundamentals/storefront/0.01_storefront.html",
+		"/C/Users/Steven/Desktop/fundamentals/cssbasics/0.03_margins_padding.html",
+		"/C/Users/Steven/Desktop/fundamentals/htmlbasics/cssbasics/0.03_margins_padding.html",
+		"/C/Users/Steven/Desktop/fundamentals/htmlbasics/cssbasics/0.01_css_classes.css",
+		"/C/Users/Steven/Desktop/fundamentals/htmlbasics/cssbasics/0.02_css_ids.html",
+		"/C/Users/Steven/Desktop/fundamentals/htmlbasics/cssbasics/0.02_css_ids.css",
+		"/C/Users/Steven/Desktop/fundamentals/htmlbasics/cssbasics/0.01_css_classes.html",
+		"/C/Users/Steven/Desktop/fundamentals/htmlbasics/cssbasics/0.00_setup.html",
+		"/C/Users/Steven/Desktop/fundamentals/htmlbasics/cssbasics/0.00_setup.css",
+		"/C/Users/Steven/Desktop/fundamentals/htmlbasics/cssbasics/0.01_setup.html",
+		"/C/Users/Steven/Desktop/fundamentals/htmlbasics/SR_for_fun.html",
+		"/C/Users/Steven/Desktop/fundamentals/htmlbasics/0.08_input.html",
+		"/C/Users/Steven/Desktop/fundamentals/htmlbasics/0.02_handptags.html",
+		"/C/Users/Steven/Desktop/fundamentals/htmlbasics/0.14_nav.html",
+		"/C/Users/Steven/Desktop/fundamentals/htmlbasics/SR for fun",
+		"/C/Users/Steven/Desktop/fundamentals/htmlbasics/0.014_nav.html",
+		"/C/Users/Steven/Desktop/fundamentals/htmlbasics/0.11_articles.html",
+		"/C/Users/Steven/Desktop/fundamentals/htmlbasics/0.09_form.html",
+		"/C/Users/Steven/Desktop/fundamentals/htmlbasics/0.10_sections.html",
+		"/C/Users/Steven/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Steven/Desktop/fundamentals/htmlbasics/0.06_tables.html",
+		"/C/Users/Steven/Desktop/fundamentals/htmlbasics/0.07_divs.html",
+		"/C/Users/Steven/Desktop/fundamentals/htmlbasics/0.05_images.html",
+		"/C/Users/Steven/Desktop/fundamentals/htmlbasics/0.05_images",
+		"/C/Users/Steven/Desktop/fundamentals/htmlbasics/003_lists.html",
+		"/C/Users/Steven/Desktop/fundamentals/htmlbasics/0.04_links.html",
+		"/C/Users/Steven/Desktop/fundamentals/htmlbasics/questions",
+		"/C/Users/Steven/Desktop/fundamentals/htmlbasics/0.01_helloworld.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "0.01_bootstrap.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 306.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
